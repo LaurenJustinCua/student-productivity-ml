@@ -1,6 +1,6 @@
 Predicting Student Productivity Using Screen Time Data
 
-Module: MACHINE LEARNING (CPU6100-20)
+Module: MACHINE LEARNING
 Programme: BSc (Hons) Creative Computing
 Student: Lauren Cua
 Assessment: Assessment 2 – Machine Learning Model & Supporting Documentation
